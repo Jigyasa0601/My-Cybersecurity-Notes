@@ -3,7 +3,8 @@ This repo tracks my hands-on cybersecurity practice on TryHackMe. <br>
 Goal: Build practical skills in Web pentesting and Linux. <br>
 ## My TryHackMe Profile
 **Username**: jigyasamaurya399 <BR>
-**Profile link**: https://tryhackme.com/p/jigyasamaurya399
+**Profile link**: https://tryhackme.com/p/jigyasamaurya399<BR>
+**Rank**: Top 45%
 ## Rooms completed
 1. | INTRODUCTORY NETWORKING | NETWORKING |
 2. | TUTORIAL | PLATFORM BASICS |
@@ -14,5 +15,4 @@ Goal: Build practical skills in Web pentesting and Linux. <br>
 7. | DEFENSIVE SECURITY INTRO | BLUE TEAM |
 8. | PYTHON CORE CONCEPTS | SCRIPTING |
 9. | CAREERS IN CYBER | CAREER GUIDE |
-10. | THE CONCIERGE KNOWS TOO MUCH | CTF |<BR>
-**Rank**: Top 45%
+10. | THE CONCIERGE KNOWS TOO MUCH | CTF |
