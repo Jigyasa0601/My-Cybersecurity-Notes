@@ -1,5 +1,6 @@
 # My-Cybersecurity-Notes
 This repo tracks my hands-on cybersecurity practice on TryHackMe. <br>
+I'm a beginner learning cybersecurity and documenting my progress here. <br>
 Goal: Build practical skills in Web pentesting and Linux. <br>
 ## My TryHackMe Profile
 **Username**: jigyasamaurya399 <BR>
@@ -16,4 +17,3 @@ Goal: Build practical skills in Web pentesting and Linux. <br>
 8. | PYTHON CORE CONCEPTS | SCRIPTING |
 9. | CAREERS IN CYBER | CAREER GUIDE |
 10. | THE CONCIERGE KNOWS TOO MUCH | CTF |
-11.  | DIRECTORY | CTF/ENUMERATION |
