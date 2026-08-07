@@ -51,5 +51,3 @@ Open http://127.0.0.1:8000 in your browser.
 10. THE CONCIERGE KNOWS TOO MUCH — CTF
 
 ---
-
-If you'd like, I can open a pull request with these changes so you can review them before merging. Otherwise I'll push directly to the default branch.
