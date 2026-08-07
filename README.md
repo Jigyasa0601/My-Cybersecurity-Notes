@@ -16,3 +16,4 @@ Goal: Build practical skills in Web pentesting and Linux. <br>
 8. | PYTHON CORE CONCEPTS | SCRIPTING |
 9. | CAREERS IN CYBER | CAREER GUIDE |
 10. | THE CONCIERGE KNOWS TOO MUCH | CTF |
+11.  | DIRECTORY | CTF/ENUMERATION |
