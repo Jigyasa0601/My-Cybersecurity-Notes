@@ -5,20 +5,10 @@ Concise, searchable notes for TryHackMe practice and self-study in web pentestin
 ## About
 I'm a beginner learning cybersecurity and documenting hands-on progress from TryHackMe rooms, labs, and exercises. This repository is organized to make notes easy to navigate, search, and publish as a documentation site.
 
-## Quick links
-- Docs site: docs/ (served with MkDocs)
-- CONTRIBUTING.md — how to add notes
-- Cheatsheets: docs/04-cheatsheets/
-
 ## TryHackMe profile
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
 - **Rank:** Top 45%
-
-## Structure
-- docs/ — main notes organized by topic (Tools, Techniques, Labs, Cheatsheets)
-- mkdocs.yml — site configuration for MkDocs + Material theme
-- .github/workflows/ — CI to build & publish docs
 
 ## How to view locally
 1. Install Python 3.8+ and pip.
