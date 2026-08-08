@@ -25,7 +25,7 @@ The layesrs of the TCP/IP model: <br>
 3.Internet<br>
 4.Network Interface<br>
 # Comparison between the TCP/IP and OSI models.<br>
-![View the image to see the comparison if these two models.](My-Cybersecurity-Notes/networking/images/image.png)<br>
+![View the image to see the comparison if these two models.](networking/images/image.png)<br>
 # ENCAPSULATION AND DE-ENCAPSULATION<br>
 Encapsulation is the process of adding headers to a message at each layer of transmission from application to physical. Decapsulation is the reverse process of removing the headers at each layer of receipt. Headers contain addressing information like port numbers, IP addresses, and MAC addresses to direct the message properly through networks and to the destination host. Encapsulation and decapsulation are necessary to send and receive messages across different network layers and systems.<br>
 **Encapsulation**<br>
@@ -36,7 +36,7 @@ Example: Data -> Segment (Transport) -> Packet (Network) -> Frame (Data Link) ->
 What it does: Prepares data for use by the application.<br>
 How it works: Each layer reads its specific header, strips it off, and passes the remaining payload up to the next layer.<br>
 Example: Bits -> Frame -> Packet -> Segment -> Original Data.<br>
-![These chart shows how at each layer data transmission works.](My-Cybersecurity-Notes/networking/images/image-1.png)<br>
+![These chart shows how at each layer data transmission works.](networking/images/image-1.png)<br>
 # NETWORKING TOOLS <br>
 Networking tools split into physical hardware used for cable installation and digital software used for network management, monitoring, and troubleshooting.<br>
 Digital Software Tools:<br>
