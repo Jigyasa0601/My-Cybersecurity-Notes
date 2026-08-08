@@ -2,7 +2,7 @@
 
 Concise, searchable notes for TryHackMe practice and self-study in web pentesting and Linux.
 
-![last-updated](https://img.shields.io/badge/updated-2026--08--07-blue) ![license](https://img.shields.io/badge/license-MIT-green)
+![last-updated](https://img.shields.io/badge/updated-2026--08--07-blue)
 
 ## About
 I'm a beginner learning cybersecurity and documenting hands-on progress from TryHackMe rooms, labs, and exercises. This repository is organized to make notes easy to navigate, search, and publish as a documentation site.
