@@ -10,22 +10,6 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
 - **Rank:** Top 45%
 
-## How to view locally
-1. Install Python 3.8+ and pip.
-2. Install mkdocs and the Material theme:
-
-```bash
-pip install mkdocs-material
-```
-
-3. Serve locally:
-
-```bash
-mkdocs serve
-```
-
-Open http://127.0.0.1:8000 in your browser.
-
 ## Rooms completed (selected)
 1. INTRODUCTORY NETWORKING — NETWORKING
 2. TUTORIAL — PLATFORM BASICS
