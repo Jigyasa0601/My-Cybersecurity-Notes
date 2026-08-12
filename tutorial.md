@@ -7,4 +7,4 @@ Setting up first virtual environment by following this steps:<br>
 2.Start the Target Machine: Click the Start Lab Machine button and wait 1 minute for it to configure.<br>
 3.Access the Lab: Scroll to the top of the page to find the target machine's IP address. Copy this IP, open Firefox inside the AttackBox (on the right-hand side), and paste the IP address into the URL bar.<br>
 
-![Take a look at this chart to understand better](image-2.png)
+![Take a look at this chart to understand better](tutorial/image-2.png)
