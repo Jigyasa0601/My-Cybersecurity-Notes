@@ -40,7 +40,7 @@ The command above is made up of the following parts:<br>
 * **-w /usr/share/wordlists/dirbuster/directory-list.txt** specifies the word list to use<br>
 
 **Task-3**: In the task-3, we have to find the secret message. By using the information below we can easily find out the hidden message after performing the tasks I the secret message I got is `born_to_be_hacker`.<br>
-![CTF screenshot](imghack/Screenshot 2026-08-16 101234.png) <br>
+![CTF screenshot](imghack/Screenshot%2026-08-16%101234.png) <br>
 
 Using an Automated Tool: **Hydra**<br>
 We could do this task manually, as we only had to go through five passwords. But what if we have to go through thousands or tens of thousands of passwords? In that case, we can use a software tool such as Hydra. In the terminal, on the lower right, let’s run the following command:<br>
