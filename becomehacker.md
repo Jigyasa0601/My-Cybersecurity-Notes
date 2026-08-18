@@ -40,6 +40,7 @@ The command above is made up of the following parts:<br>
 * **-w /usr/share/wordlists/dirbuster/directory-list.txt** specifies the word list to use<br>
 
 **Task-3**: In the task-3, we have to find the secret message. By using the information below we can easily find out the hidden message after performing the tasks I the secret message I got is `born_to_be_hacker`.<br>
+![CTF screenshot](imghack/screenshot 2026-08-16 101234.png) <br>
 
 Using an Automated Tool: **Hydra**<br>
 We could do this task manually, as we only had to go through five passwords. But what if we have to go through thousands or tens of thousands of passwords? In that case, we can use a software tool such as Hydra. In the terminal, on the lower right, let’s run the following command:<br>
@@ -58,6 +59,6 @@ The command above is made up of the following parts:<br>
 
 The cyber careers room goes into more depth about the different careers in cyber. However, here is a short description of a few offensive security roles:<br>
 
-**Penetration Tester** - Responsible for testing technology products for finding exploitable security vulnerabilities.
-**Red Teamer** - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
-**Security Engineer** - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.
+**Penetration Tester** - Responsible for testing technology products for finding exploitable security vulnerabilities.<br>
+**Red Teamer** - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.<br>
+**Security Engineer** - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.<br>
