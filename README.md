@@ -11,7 +11,6 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 - **Rank:** Top 20%
 - **Badges:** 7 earned
 - **Rooms completed:** 36 rooms
-- 
 ## Rooms completed 
 1. INTRODUCTORY NETWORKING | NETWORKING
 2. TUTORIAL | PLATFORM BASICS
