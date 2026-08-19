@@ -8,9 +8,11 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 ## TryHackMe profile
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
-- **Rank:** Top 35%
-
-## Rooms completed (selected)
+- **Rank:** Top 20%
+- **Badges:** 7 earned
+- **Rooms completed:** 36 rooms
+- 
+## Rooms completed 
 1. INTRODUCTORY NETWORKING | NETWORKING
 2. TUTORIAL | PLATFORM BASICS
 3. GETTING STARTED | WEB INTRO
