@@ -30,5 +30,10 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 16. INTRODUCTORY RESEARCHING | PENTESTING SKILLS
 17. STARTING OUT IN CYBER SEC | CAREER PATHS
 18. LEARNING CYBER SECURITY | SECURITY TOPICS
+19. Wifi Hacking 101 | Attacking WPA(2) networks
+20. DNS in detail | About DNS working
+21. HTTP in detail | Using http protocol
+22. Windows fundamentals 1 | Windows fundamental modules
+23. 
 
 ---
