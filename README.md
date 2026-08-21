@@ -8,7 +8,7 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 ## TryHackMe profile
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
-- **Rank:** Top 20%
+- **Rank:** Top 25%
 - **Badges:** 7 earned
 - **Rooms completed:** 36 rooms
 ## Rooms completed 
@@ -34,6 +34,5 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 20. DNS in detail | About DNS working
 21. HTTP in detail | Using http protocol
 22. Windows fundamentals 1 | Windows fundamental modules
-23. 
 
 ---
