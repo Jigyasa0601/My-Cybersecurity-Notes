@@ -8,9 +8,10 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 ## TryHackMe profile
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
-- **Rank:** Top 25%
+- **Rank:** Top 20%
 - **Badges:** 7 earned
-- **Rooms completed:** 36 rooms
+- **Streak:** 21 days
+- **Rooms completed:** 37 rooms
 ## Rooms completed 
 1. INTRODUCTORY NETWORKING | NETWORKING
 2. TUTORIAL | PLATFORM BASICS
@@ -45,6 +46,7 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 31. Python Basics | Using web-based code editor
 32. Intro to LAN | Private networks technology & design
 33. Metasploit : Introduction | Introduction to main components of the metasploit framework
-34. Defensive Security Trends | Modern security landscape 
+34. Defensive Security Trends | Modern security landscape
+35. Agent Discovery | Traditional workflows, AI workflows,assistants, and agents for security alert problems
 
 ---
