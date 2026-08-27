@@ -49,4 +49,4 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 34. Defensive Security Trends | Modern security landscape
 35. Agent Discovery | Traditional workflows, AI workflows,assistants, and agents for security alert problems
 
----
+------------
