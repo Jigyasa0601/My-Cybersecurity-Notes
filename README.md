@@ -9,9 +9,9 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
 - **Rank:** Top 20%
-- **Badges:** 7 earned
+- **Badges:** 8 earned
 - **Streak:** 21 days
-- **Rooms completed:** 37 rooms
+- **Rooms completed:** 38 rooms
 ## Rooms completed 
 1. INTRODUCTORY NETWORKING | NETWORKING
 2. TUTORIAL | PLATFORM BASICS
@@ -48,5 +48,6 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 33. Metasploit : Introduction | Introduction to main components of the metasploit framework
 34. Defensive Security Trends | Modern security landscape
 35. Agent Discovery | Traditional workflows, AI workflows,assistants, and agents for security alert problems
+36. Common Attacks | Practical exercises on common attacks 
 
 ------------
