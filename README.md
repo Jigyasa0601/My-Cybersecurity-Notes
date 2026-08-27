@@ -34,5 +34,17 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 20. DNS in detail | About DNS working
 21. HTTP in detail | Using http protocol
 22. Windows fundamentals 1 | Windows fundamental modules
+23. Pentesting Fundamentals | Ethics & methodologies
+24. Red Team Fundamentals | Brief intro
+25. Become a hacker | Basics
+26. Networking concepts | About ISO OSI model & TCP/IP protocol suite
+27. Cryptography Basics | Cryptography & symmetric encryption
+28. Training impact on teams | Impact of training on teams & organisation
+29. Windows Basics | Navigating Windows, manage files & using system tools
+30. Network Room Guide | Learning networks on tryhackme
+31. Python Basics | Using web-based code editor
+32. Intro to LAN | Private networks technology & design
+33. Metasploit : Introduction | Introduction to main components of the metasploit framework
+34. Defensive Security Trends | Modern security landscape 
 
 ---
