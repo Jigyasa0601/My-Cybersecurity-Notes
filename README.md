@@ -8,10 +8,10 @@ I'm a beginner learning cybersecurity and documenting hands-on progress from Try
 ## TryHackMe profile
 - **Username:** jigyasamaurya399
 - **Profile:** https://tryhackme.com/p/jigyasamaurya399
-- **Rank:** Top 20%
+- **Rank:** Top 15%
 - **Badges:** 8 earned
-- **Streak:** 22 days
-- **Rooms completed:** 39 rooms
+- **Streak:** 24 days
+- **Rooms completed:** 40 rooms
 ## Rooms completed 
 1. INTRODUCTORY NETWORKING | NETWORKING
 2. TUTORIAL | PLATFORM BASICS
